@@ -15,8 +15,8 @@
  - 学生公共选课
  - ...
 2. 体育馆
- - (指定日期可以预约场馆)[http://api.sxisa.org/stadium/query.php?k=1&d=2015-10-25]
- - (预定指定时间指定场馆)[http://api.sxisa.org/stadium/order.php?u=1501090146&p=123456&n=229&t=09:30-10:30&d=2015-10-20]
+ - [指定日期可以预约场馆](http://api.sxisa.org/stadium/query.php?k=1&d=2015-10-25)
+ - [预定指定时间指定场馆](http://api.sxisa.org/stadium/order.php?u=1501090146&p=123456&n=229&t=09:30-10:30&d=2015-10-20)
  - 预约场馆历史记录
  - 移除场馆预约
  - ...
